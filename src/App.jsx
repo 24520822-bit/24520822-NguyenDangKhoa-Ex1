@@ -1,5 +1,11 @@
+import DeveloperCard from './components/DeveloperCard.jsx'
+
 function App() {
-  return <main></main>
+  return (
+    <main>
+      <DeveloperCard />
+    </main>
+  )
 }
 
 export default App
